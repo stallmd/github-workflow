@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Mackenzie Stall
 
 ## DUE: 31 Aug 2017
 
@@ -19,58 +19,4 @@ Name: _______________________________________
  
  ***Note:*** Any issues you have with either the GitHub steps or HTML/CSS questions should be asked publically in Piazza. If you have a question, chances are someone else does also. If you see someone has posted a question on Piazza and you know the answer, please chime in and answer. This might seem rough at the beginning, but I promise it will get easier.
 
-# .gitignore
 
-.idea/workspace.xml
-
-.idea/tasks.xml
-
-.idea/dataSources/
-
-.idea/dataSources.ids
-
-.idea/dataSources.xml
-
-.idea/dataSources.local.xml
-
-.idea/sqlDataSources.xml
-
-.idea/dynamic.xml
-
-.idea/uiDesigner.xml
-
-.idea/gradle.xml
-
-.idea/libraries
-
-.idea/mongoSettings.xml
-
-*.iws
-
-/out/
-
-.idea_modules/
-
-atlassian-ide-plugin.xml
-
-com_crashlytics_export_strings.xml
-
-crashlytics.properties
-
-crashlytics-build.properties
-
-fabric.properties
-
-*.iml
-
-modules.xml
-
-.idea/misc.xml
-
-*.ipr
-
-compiler.xml
-
-profiles_settings.xml
-
-vcs.xml
